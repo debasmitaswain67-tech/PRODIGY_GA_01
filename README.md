@@ -26,6 +26,7 @@ The dataset used for fine-tuning consists of **question-answer pairs** formatted
 
 ### 🧾 Sample Data Format
 📌 The dataset includes structured conversational pairs for effective GPT-2 fine-tuning. :contentReference[oaicite:0]{index=0}
+You can add your own dataset and make different question according to the dataset and must be in the above format
 
 ---
 
