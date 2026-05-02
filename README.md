@@ -18,6 +18,16 @@ This project focuses on fine-tuning the **GPT-2 language model** using custom da
 👉 [Open in Google Colab](https://colab.research.google.com/drive/1qVGXTW55uu8_E5deRXarybxPUIUK1kAg#scrollTo=YWjkaX323DYi)
 
 ---
+## 📂 Dataset
+
+The dataset used for fine-tuning consists of **question-answer pairs** formatted for language model training.
+
+📁 File: `kis_seoul_dataset.txt`
+
+### 🧾 Sample Data Format
+📌 The dataset includes structured conversational pairs for effective GPT-2 fine-tuning. :contentReference[oaicite:0]{index=0}
+
+---
 
 ## 🧠 Technologies Used
 
